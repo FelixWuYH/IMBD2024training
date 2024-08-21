@@ -12,3 +12,8 @@
 - 題目解讀與案例
 - 策略與初步結果
 - 分享與交流討論
+### 競賽資訊
+- [初賽說明會簡報](https://drive.google.com/file/d/1lil228EDTy_42I0CkA_BnVRYQpKOdA_I/view)
+- [初賽說明會QA](https://drive.google.com/file/d/1tdtc10sMAufJwo6blCczin5DdDKhISOa/view)
+- [初賽團隊名單](https://drive.google.com/file/d/17krpsYIqCmG4ghYplSLzq7gr-XeDiU_0/view)
+- [初賽繳交資料上傳說明手冊](https://drive.google.com/file/d/164JuPy1HXHkTIfmQIWq_II0hOo22Amb6/view)
